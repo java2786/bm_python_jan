@@ -1,0 +1,9 @@
+Find largest number from 3 numbers
+Find smallest number from 3 numbers
+Find if given number is positive or negative 
+Find if user's age is valid for dirving license
+    valid range => 18 years - 75 years
+Triangle sides: find if it is right angle triangle 
+
+
+Bill -> do not accept negative input
