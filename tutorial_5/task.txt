@@ -1,0 +1,4 @@
+Add whole numbers from 1 to N 
+Find factorial of N 
+Print square values of each number from 1 to N 
+Print cube values of each number from 1 to N 
