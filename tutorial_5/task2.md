@@ -26,8 +26,6 @@ Print the multiplication table of a number.
 Count the number of digits in an input number.
 
 
-===========
-
 
 Reverse a number using loop (e.g., input 123 → output 321).
 Check whether a number is a palindrome (e.g., 121, 1331).
