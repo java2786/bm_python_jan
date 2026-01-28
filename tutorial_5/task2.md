@@ -30,14 +30,26 @@ Count the number of digits in an input number.
 Reverse a number using loop (e.g., input 123 → output 321).
 Check whether a number is a palindrome (e.g., 121, 1331).
 Count how many even and odd digits are present in a number.
-Calculate the sum of digits of a number until it becomes a single digit (digital root). => 79 => 7+9 = 16 => 1+6 = 7, 78634 = 29 => 11 = 2
+    => 3548722 => odd: 7, even: 4
+Calculate the sum of digits of a number until it becomes a single digit (digital root). 
+    => 79 => 7+9 = 16 => 1+6 = 7, 78634 = 29 => 11 = 2
+    => 8987898778 => 79 => 16 => 7
 
 
 
-Check whether a number is Armstrong (e.g., 153 = 1³+5³+3³).
+Check whether a number is Armstrong 
+    => 153 = 1³+5³+3³
+    => 8 => 8
+    => 27 => count 2, 4 + 49 = 53 - Not
+    => count, each digit has power count, sum
+
 Print the sum of squares of digits of a number.
+    => 6543 => 36+25+16+9
 Input a number and count how many times each digit (0–9) appears.
+    -> 8987898778
+
 Convert a decimal number to binary manually (no bin() function).
+Convert a binary number to decimal manually (no bin() function).
 Find the product of all digits in a number.
 Input a number and print whether it is a perfect number (sum of factors equals the number).
 Check if a number is a strong number (sum of factorials of digits = original number).
