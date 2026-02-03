@@ -1,0 +1,10 @@
+"""
+Triangle pattern using stars
+
+* * * *
+* * * 
+* * 
+* 
+
+"""
+
