@@ -1,6 +1,13 @@
 """
 Triangle pattern using stars
 
+n = 4
+
+. . . * 
+. . * * 
+. * * * 
+* * * *
+
       * 
     * * 
   * * * 
@@ -9,3 +16,6 @@ Triangle pattern using stars
 """
 
 
+# i range -> 
+#   num - i => . + i => *
+#   print 
