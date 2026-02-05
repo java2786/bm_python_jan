@@ -25,3 +25,4 @@ print(f"ThirdLast/first Char: {name[len(name)-3]}")
 print(f"Upper: {name.upper()}")
 print(f"Lower: {name.lower()}")
 print(f"Capitalise: {name.capitalize()}")
+

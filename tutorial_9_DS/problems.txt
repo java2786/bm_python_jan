@@ -1,0 +1,21 @@
+1. Input name and dob, and find adhar password
+    name = "Radhika"
+    dob = "21-12-2005"
+
+2. Input string 
+    String reverse
+    Find how many vowels are in given string
+
+    name = "Hello"
+    output => "olleH", vowels = 2
+
+3. Find if two strings are anagram
+    who and how 
+    dog and god
+    ate and eat and tea 
+    ear and are 
+    listen and silent
+
+
+4. Find total bill of 5 items - list 
+    20, 15, 40, 120, 30
