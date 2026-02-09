@@ -1,0 +1,41 @@
+#anagrams
+ -same characters 
+-same length 
+
+firstname  = input(" enter first string:")
+secondname = input(" enter second string:")
+
+if firstname == secondname :
+    print("the strings are anagrams ")
+    
+else:
+    print(" the strings are not anagrams")
+
+++++++++++++++++++
+
+
+#list 
+  #CRUD
+    #C-CREATE
+    #R-READ
+    #U-UPDATE
+    #D-DELETE
+
+# CREATE- ADD ITEMS 
+items ={"pizza":100, 
+         "burger":100, 
+         "coldrink":50, 
+         "fries":40}
+
+#READ- DISPLAY ITEMS
+print("items:")
+
+#UPDATE- UPDATE A PRICE OF ANY ITEM 
+print("crud-update")
+items[1]= "40"
+
+#DELETE= DELETE AN ITEM 
+items.remove=["fries"]
+
+#read =calculate the total bill
+total_bill=0
