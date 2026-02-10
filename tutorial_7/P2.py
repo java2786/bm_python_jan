@@ -1,4 +1,4 @@
-# Find if all prime numbers from 1 to N
+# Find all prime numbers from 1 to N
 n = 50
 for num in range(2, n+1):
     is_prime = True
